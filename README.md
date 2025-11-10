@@ -1,5 +1,4 @@
-
-
+![Banner de Luciano Salinas Tapia](./mi_banner_horizontal.png)
 # 🫵 ¡Hola! Soy Luciano Salinas Tapia  
 ### 💻 Analista Programador | Desarrollador Web & Móvil  
 
