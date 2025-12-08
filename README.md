@@ -44,8 +44,10 @@ Stack principal: **React**, **Django**, **PostgreSQL**, **API RESTful**, **Jira*
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuSpace1&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuSpace1&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuSpace1&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuSpace1&layout=compact&theme=tokyonight" height="180" alt="Top Langs" />
+</div>
 
 ---
 
@@ -53,11 +55,11 @@ Stack principal: **React**, **Django**, **PostgreSQL**, **API RESTful**, **Jira*
 📍 Viña del Mar, Chile  
 📧 [contacto.lucianosalinas@gmail.com](mailto:contacto.lucianosalinas@gmail.com)  
 🔗 [GitHub - LuSpace1](https://github.com/LuSpace1)  
-💼 [LinkedIn - Próximamente](#)
+💼 [LinkedIn - Próximamente](https://www.linkedin.com/in/luciano-salinas-tapia-785481389/)
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Estoy abierto a oportunidades para prácticas o mi primer empleo en desarrollo de software.*
+⭐ *Gracias por visitar mi perfil. Estoy abierto a oportunidades para mi primer empleo en desarrollo de software.*
 
 
 
