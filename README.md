@@ -41,6 +41,8 @@ Busco iniciar mi carrera profesional en un entorno donde pueda aprender, aportar
 Desarrollo de una **plataforma web** que conecta profesionales de psicología y metodología académica con usuarios que buscan apoyo especializado.  
 Stack principal: **React**, **Django**, **PostgreSQL**, **API RESTful**, **Jira**, **Confluence**.  
 
+Link: https://impulsamente-web.vercel.app/
+
 ---
 
 ## 📊 GitHub Stats  
