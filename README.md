@@ -67,7 +67,6 @@ Link: https://impulsamente-web.vercel.app/
 ## 🌍 Conecta conmigo  
 📍 Viña del Mar, Chile  
 📧 [contacto.lucianosalinas@gmail.com](mailto:contacto.lucianosalinas@gmail.com)  
-🔗 [GitHub - LuSpace1](https://github.com/LuSpace1)  
 💼 [LinkedIn](https://www.linkedin.com/in/luciano-salinas-tapia-785481389/)
 
 ---
