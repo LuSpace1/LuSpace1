@@ -36,6 +36,17 @@ Busco iniciar mi carrera profesional en un entorno donde pueda aprender, aportar
 
 ---
 
+## 🏗️ Práctica Profesional – Sistema de Gestión Empresarial
+GeoAtacama Consultores Ltda. · vía ISAMAX consultorias.
+
+Desarrollo de un **sistema web de gestión empresarial** para GeoAtacama Consultores Ltda., enfocado en la administración de inventarios, operaciones y recursos humanos, como parte de mi práctica profesional realizada bajo la consultora de servicios informáticos *ISAMAX*.
+
+El proyecto consistió en la implementación de una aplicación web orientada a procesos reales del negocio, participando en el desarrollo backend y frontend, con funcionalidades CRUD, validaciones, manejo de lógica de negocio y persistencia de datos en bases de datos relacionales.
+
+Stack principal: **Django**, **JavaScript**, **SQL**, **HTML/CSS**, **Git**.
+
+Link: https://www.sicgeoatacama.cl/
+
 ## 📂 Proyecto destacado  
 ### [ImpulsaMente Web](https://github.com/LuSpace1/impulsamente-web)
 Desarrollo de una **plataforma web** que conecta profesionales de psicología y metodología académica con usuarios que buscan apoyo especializado.  
@@ -57,11 +68,11 @@ Link: https://impulsamente-web.vercel.app/
 📍 Viña del Mar, Chile  
 📧 [contacto.lucianosalinas@gmail.com](mailto:contacto.lucianosalinas@gmail.com)  
 🔗 [GitHub - LuSpace1](https://github.com/LuSpace1)  
-💼 [LinkedIn - Próximamente](https://www.linkedin.com/in/luciano-salinas-tapia-785481389/)
+💼 [LinkedIn](https://www.linkedin.com/in/luciano-salinas-tapia-785481389/)
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Estoy abierto a oportunidades para mi primer empleo en desarrollo de software.*
+⭐ *Gracias por visitar mi perfil. Estoy abierto a oportunidades!*
 
 
 
