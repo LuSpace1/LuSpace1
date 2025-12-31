@@ -8,7 +8,7 @@
 ---
 
 ## 🧑🏻‍🚀 Sobre mí  
-Soy **Luciano Salinas Tapia**, estudiante de **Analista Programador en INACAP Valparaíso**, apasionado por la creación de soluciones tecnológicas que aporten valor real.  
+Hola! Soy **Luciano Salinas Tapia**, estudiante de **Ingenieria en Informatica** y egresado de **Analista Programador en INACAP**, me considero un apasionado por la creación de soluciones tecnológicas que aporten valor real.  
 Me especializo en **desarrollo web con React y Django**, y tengo experiencia práctica en **aplicaciones móviles con Kotlin** y **Firebase**.  
 Busco iniciar mi carrera profesional en un entorno donde pueda aprender, aportar y seguir creciendo como desarrollador.
 
@@ -39,11 +39,11 @@ Busco iniciar mi carrera profesional en un entorno donde pueda aprender, aportar
 ## 🏗️ Práctica Profesional – Sistema de Gestión Empresarial
 GeoAtacama Consultores Ltda. · vía ISAMAX consultorias.
 
-Desarrollo de un **sistema web de gestión empresarial** para GeoAtacama Consultores Ltda., enfocado en la administración de inventarios, operaciones y recursos humanos, como parte de mi práctica profesional realizada bajo la consultora de servicios informáticos *ISAMAX*.
+Desarrollo de un **sistema web de gestión empresarial** para GeoAtacama Consultores Ltda., enfocado en la administración de inventarios, operaciones y recursos humanos, como parte de mi práctica profesional realizada bajo la consultora de servicios informáticos **ISAMAX**.
 
 El proyecto consistió en la implementación de una aplicación web orientada a procesos reales del negocio, participando en el desarrollo backend y frontend, con funcionalidades CRUD, validaciones, manejo de lógica de negocio y persistencia de datos en bases de datos relacionales.
 
-Stack principal: **Django**, **JavaScript**, **SQL**, **HTML/CSS**, **Git**.
+Stack principal: **Django**, **JavaScript**, **SQL**, **HTML/CSS**, **Git**, **Trelo**, **MySQL**.
 
 Link: https://www.sicgeoatacama.cl/
 
