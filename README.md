@@ -1,6 +1,6 @@
 ![Banner de Luciano Salinas Tapia](./mi_segundo_banner.png)
 # 🫵 ¡Hola! Soy Luciano Salinas Tapia  
-### 💻 Analista Programador | Desarrollador Web & Móvil  
+### 💻 Ingeniero Informatico | Desarrollador Web & Móvil  
 
 > “El hombre que emplea su talento con diligencia busca no solo su propio beneficio, sino que, sin saberlo, promueve el bienestar de toda la sociedad.”
 > — *Adam Smith, La Riqueza de las Naciones (1776)*
@@ -8,9 +8,8 @@
 ---
 
 ## 🧑🏻‍🚀 Sobre mí  
-Hola! Soy **Luciano Salinas Tapia**, estudiante de **Ingenieria en Informatica** y egresado de **Analista Programador en INACAP**, me considero un apasionado por la creación de soluciones tecnológicas que aporten valor real.  
+Hola! Soy **Luciano Salinas Tapia** **Ingeniero Informatico** dedicado a soluciones web. Me considero un apasionado por la creación de soluciones tecnológicas que aporten valor real.  
 Me especializo en **desarrollo web con React y Django**, y tengo experiencia práctica en **aplicaciones móviles con Kotlin** y **Firebase**.  
-Busco iniciar mi carrera profesional en un entorno donde pueda aprender, aportar y seguir creciendo como desarrollador.
 
 ---
 
