@@ -34,19 +34,6 @@ Busco iniciar mi carrera profesional en un entorno donde pueda aprender, aportar
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
----
-
-## 🏗️ Práctica Profesional – Sistema de Gestión Empresarial
-GeoAtacama Consultores Ltda. · vía ISAMAX consultorias.
-
-Desarrollo de un **sistema web de gestión empresarial** para GeoAtacama Consultores Ltda., enfocado en la administración de inventarios, operaciones y recursos humanos, como parte de mi práctica profesional realizada bajo la consultora de servicios informáticos **ISAMAX**.
-
-El proyecto consistió en la implementación de una aplicación web orientada a procesos reales del negocio, participando en el desarrollo backend y frontend, con funcionalidades CRUD, validaciones, manejo de lógica de negocio y persistencia de datos en bases de datos relacionales.
-
-Stack principal: **Django**, **JavaScript**, **SQL**, **HTML/CSS**, **Git**, **Trelo**, **MySQL**.
-
-Link: https://www.sicgeoatacama.cl/
-
 ## 📂 Proyecto destacado  
 ### [ImpulsaMente Web](https://github.com/LuSpace1/impulsamente-web)
 Desarrollo de una **plataforma web** que conecta profesionales de psicología y metodología académica con usuarios que buscan apoyo especializado.  
@@ -67,7 +54,6 @@ Link: https://impulsamente-web.vercel.app/
 ## 🌍 Conecta conmigo  
 📍 Viña del Mar, Chile  
 📧 [contacto.lucianosalinas@gmail.com](mailto:contacto.lucianosalinas@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/luciano-salinas-tapia-785481389/)
 
 ---
 
