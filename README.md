@@ -1,13 +1,17 @@
 ![Banner de Luciano Salinas Tapia](./mi_segundo_banner.png)
 
-<a href="https://www.linkedin.com/in/luciano-salinas-tapia-785481389/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" align="right" style="vertical-align: bottom;" />
-</a>
-<a href="mailto:contacto.lucianosalinas@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="30" align="right" style="vertical-align: bottom;" />
-</a>
+<h1>
+🫵 ¡Hola! Soy Luciano Salinas Tapia
+<span style="float:right;">
+  <a href="https://www.linkedin.com/in/luciano-salinas-tapia-785481389/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="mailto:contacto.lucianosalinas@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
+</span>
+</h1>
 
-# 🫵 ¡Hola! Soy Luciano Salinas Tapia  
 ### 💻 Analista Programador | Desarrollador Web & Móvil  
 
 > “El hombre que emplea su talento con diligencia busca no solo su propio beneficio, sino que, sin saberlo, promueve el bienestar de toda la sociedad.”  
