@@ -20,15 +20,16 @@
 ---
 
 ## 🎯 Disponibilidad Profesional  
-Actualmente me encuentro en **búsqueda de mi primer trabajo o pasantía profesional** en el área de desarrollo de software, con el objetivo de incorporarme a un **equipo de trabajo real**, participar en **proyectos productivos** y **adquirir experiencia profesional sólida**, aportando desde el primer día con mis conocimientos técnicos, buenas prácticas y actitud de aprendizaje continuo.
+Actualmente me encuentro en **búsqueda de mi primer trabajo profesional** en el área de desarrollo de software, con el objetivo de incorporarme a un **equipo de trabajo real**, participar en **proyectos productivos** y **adquirir experiencia profesional sólida**, aportando desde el primer día con mis conocimientos técnicos, buenas prácticas y actitud de aprendizaje continuo.
 
 ---
 
 ## 🧑🏻‍🚀 Sobre mí  
 Hola 👋 Soy **Luciano Salinas Tapia**, **Analista Programador titulado** y estudiante de **Ingeniería en Informática**.  
-Me apasiona la creación de **soluciones tecnológicas orientadas a problemas reales**, con foco en calidad, escalabilidad y buen diseño de software.
 
-Me especializo en **desarrollo web con React y Django**, y cuento con experiencia práctica en **desarrollo móvil con Kotlin** y **Firebase**, participando tanto en frontend como backend, bajo metodologías ágiles y entornos colaborativos.
+**Desarrollador Full Stack** con un enfoque especial en Backend usando **Django y FastAPI** y **React** para el Frontend. Cuento con experiencia en proyectos de alto impacto para clientes y proyectos personales utilizando metodologías ágiles, buenas practicas y sobre todo un enfoque especial en el producto y su viabilidad.
+
+Me gusta definirme como un "Builder": un ingeniero con mentalidad de founder que prioriza el impacto al negocio y el alto ownership. Soy proactivo en la resolución de problemas técnicos y estratégicos, asegurando que cada línea de codigo genere valor real.
 
 ---
 
