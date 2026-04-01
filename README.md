@@ -1,4 +1,4 @@
-#![Banner de Luciano Salinas Tapia](./mi_segundo_banner.png)
+[//]: # ![Banner de Luciano Salinas Tapia](./mi_segundo_banner.png) 
 
 <h1>
 🫵 ¡Hola! Soy Luciano Salinas Tapia
