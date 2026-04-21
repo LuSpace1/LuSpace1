@@ -1,14 +1,12 @@
-![Banner de Luciano Salinas Tapia](./mi_segundo_banner.png) 
-
 <h1>
 🫵 ¡Hola! Soy Luciano Salinas Tapia
 <span style="float:right;">
-  <a href="https://www.linkedin.com/in/luciano-salinas-tapia-785481389/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-  </a>
-  <a href="mailto:contacto.lucianosalinas@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
-  </a>
+  <a href="https://www.linkedin.com/in/luciano-salinas-tapia-785481389/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="mailto:contacto.lucianosalinas@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
 </span>
 </h1>
 
