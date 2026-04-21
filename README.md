@@ -10,7 +10,7 @@
 </span>
 </h1>
 
-### 💻 Analista Programador | Desarrollador Web & Móvil  
+### 💻 Analista Programador | Desarrollador Fullstack
 
 > “El hombre que emplea su talento con diligencia busca no solo su propio beneficio, sino que, sin saberlo, promueve el bienestar de toda la sociedad.”  
 > — *Adam Smith, La Riqueza de las Naciones (1776)*
