@@ -39,7 +39,10 @@ Me gusta definirme como un "Builder": un ingeniero con mentalidad de founder que
 <img src="https://skillicons.dev/icons?i=python,js,kotlin&perline=5" />
 
 ### Frameworks & Librerías
-<img src="https://skillicons.dev/icons?i=django,react&perline=5" />
+<img src="https://skillicons.dev/icons?i=django,react,fastapi&perline=5" />
+
+### AI & Automation
+<img src=" />
 
 ### Bases de Datos & Backend Services
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=5" />
