@@ -19,7 +19,7 @@
 
 ## 🎯 Disponibilidad Profesional  
 
-Analista Programador e Ingeniero de Software en formación con experiencia en desarrollo **Backend** y Fullstack utilizando Django, React y PostgreSQL. Mi enfoque esta en la implementación de arquitecturas de IA Generativa (RAG) y automatización de sistemas. Historial probado en el desarrollo de software para consultoría bajo metodologías Scrum, priorizando la eficiencia del código y la seguridad de los datos. Apasionado por la resolución de problemas complejos mediante tecnologías emergentes y arquitecturas escalables.
+Analista Programador e Ingeniero de Software en formación con experiencia en desarrollo **Backend** y Fullstack utilizando **Django**, **React** y **PostgreSQL**. Mi enfoque esta en la implementación de arquitecturas de **IA Generativa (RAG)** y **automatización de sistemas**. Historial probado en el desarrollo de software para consultoría bajo metodologías Scrum, priorizando la eficiencia del código y la seguridad de los datos. Apasionado por la resolución de problemas complejos mediante tecnologías emergentes y arquitecturas escalables.
 
 ---
 
